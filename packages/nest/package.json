@@ -62,7 +62,7 @@
   "devDependencies": {
     "@fastify/cookie": "^11.0.2",
     "@nestjs/common": "^11.1.16",
-    "@nestjs/core": "^11.1.16",
+    "@nestjs/core": "^11.1.18",
     "@nestjs/platform-express": "^11.1.16",
     "@nestjs/platform-fastify": "^11.1.16",
     "@nestjs/testing": "^11.1.16",
